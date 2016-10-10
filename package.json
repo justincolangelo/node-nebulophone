@@ -1,0 +1,28 @@
+{
+  "name": "node-nebulophone",
+  "version": "0.1.0",
+  "description": "Adaptation of NEBULOPHONE code v11 by Dr. Bleep",
+  "main": "nebulophone.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/justincolangelo/node-nebulophone"
+  },
+  "bugs": {
+    "url": "https://github.com/justincolangelo/node-nebulophone/issues"
+  },
+  "keywords": [
+    "nebulophone",
+    "bleep",
+    "labs",
+    "music",
+    "johnny-five"
+  ],
+  "dependencies": {
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Justin Colangelo",
+  "license": "MIT"
+}
